@@ -43,7 +43,7 @@
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ms-auto">
 					<li class="nav-item mx-0 mx-lg-1"><a
-						class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Portfolio</a></li>
+						class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Donate</a></li>
 					<li class="nav-item mx-0 mx-lg-1"><a
 						class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
 					<li class="nav-item mx-0 mx-lg-1"><a
@@ -82,7 +82,7 @@
 		<div class="container">
 			<!-- Portfolio Section Heading-->
 			<h2
-				class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+				class="page-section-heading text-center text-uppercase text-secondary mb-0">Donate</h2>
 			<!-- Icon Divider-->
 			<div class="divider-custom">
 				<div class="divider-custom-line"></div>
@@ -134,7 +134,7 @@
 								<i class="fas fa-plus fa-3x"></i>
 							</div>
 						</div>
-						<img class="img-fluid" src="assets/img/portfolio/circus.png"
+						<img class="img-fluid" src="assets/img/portfolio/bg4.png"
 							alt="..." />
 					</div>
 				</div>
@@ -213,7 +213,7 @@
 			<!-- About Section Button-->
 			<div class="text-center mt-4">
 				<a class="btn btn-xl btn-outline-light"
-					href="https://github.com/sujal2617/JFSD/">   Our GitHub
+					href="https://github.com/sujal2617/JFSD/">Our GitHub
 				</a>
 			</div>
 		</div>
@@ -223,8 +223,7 @@
 		<div class="container">
 			<!-- Contact Section Heading-->
 			<h2
-				class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact
-				Me</h2>
+				class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
 			<!-- Icon Divider-->
 			<div class="divider-custom">
 				<div class="divider-custom-line"></div>
@@ -315,12 +314,12 @@
 				<div class="col-lg-4 mb-5 mb-lg-0">
 					<h4 class="text-uppercase mb-4">Location</h4>
 					<p class="lead mb-0">
-						2215 John Daniel Drive <br /> Clark, MO 65243
+						Sujal Pattewar <br />KL University
 					</p>
 				</div>
 				<!-- Footer Social Icons-->
 				<div class="col-lg-4 mb-5 mb-lg-0">
-					<h4 class="text-uppercase mb-4">Around the Web</h4>
+					<h4 class="text-uppercase mb-4">About the Web</h4>
 					<a class="btn btn-outline-light btn-social mx-1" href="#!"><i
 						class="fab fa-fw fa-facebook-f"></i></a> <a
 						class="btn btn-outline-light btn-social mx-1" href="#!"><i
@@ -332,10 +331,9 @@
 				</div>
 				<!-- Footer About Text-->
 				<div class="col-lg-4">
-					<h4 class="text-uppercase mb-4">About Freelancer</h4>
+					<h4 class="text-uppercase mb-4">About CareNet</h4>
 					<p class="lead mb-0">
-						Freelance is a free to use, MIT licensed Bootstrap theme created
-						by <a href="http://startbootstrap.com">Start Bootstrap</a> .
+					<a href="https://www.linkedin.com/pulse/carenet-sujal-pattewar-4rvxc/?trackingId=5KjWQwOJQPqfBMtWds%2BmWQ%3D%3D">Our Linkedin</a>
 					</p>
 				</div>
 			</div>
@@ -357,8 +355,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Log
-									Cabin</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Household Itom's</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -371,11 +368,7 @@
 								<img class="img-fluid rounded mb-5"
 									src="assets/img/portfolio/cabin.png" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Donating household items to those affected by natural disasters is a powerful way to support individuals and families during their most vulnerable times. Natural disasters often leave people without basic necessities like food, clothing, bedding, and kitchenware. By contributing essential household items, donors help survivors regain a sense of normalcy and dignity as they rebuild their lives.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -402,8 +395,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty
-									Cake</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Food</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -416,11 +408,7 @@
 								<img class="img-fluid rounded mb-5"
 									src="assets/img/portfolio/cake.png" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Donating food to those affected by natural disasters is one of the most immediate and impactful ways to provide relief. During emergencies, access to fresh food and clean water can be severely limited, leaving individuals and families without the essentials they need to survive. By donating non-perishable food items, you can help alleviate hunger and ensure that affected communities have access to sustenance during recovery.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -447,8 +435,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus
-									Tent</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Medical</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -461,11 +448,7 @@
 								<img class="img-fluid rounded mb-5"
 									src="assets/img/portfolio/circus.png" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Donating medical supplies and services to those affected by natural disasters is vital for ensuring the health and well-being of survivors. Natural disasters often lead to injuries, outbreaks of illness, and limited access to healthcare, making medical aid one of the top priorities in disaster relief efforts.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -492,7 +475,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Electronic</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -505,11 +488,7 @@
 								<img class="img-fluid rounded mb-5"
 									src="assets/img/portfolio/game.png" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Donating electronic items to individuals affected by natural disasters can greatly assist in restoring communication, providing access to critical information, and helping people regain a sense of normalcy. In times of disaster, many lose access to vital electronics like phones, chargers, radios, and even basic appliances, which are essential for staying connected with loved ones, receiving emergency alerts, and managing everyday tasks.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -536,8 +515,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked
-									Safe</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Money</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -550,11 +528,7 @@
 								<img class="img-fluid rounded mb-5"
 									src="assets/img/portfolio/safe.png" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Donating money to individuals affected by natural disasters is one of the most efficient and flexible ways to provide aid. Monetary donations allow relief organizations to respond quickly to changing needs, purchase supplies locally (which supports the local economy), and ensure that the right resources reach those in need.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -581,7 +555,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Transport</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -594,11 +568,7 @@
 								<img class="img-fluid rounded mb-5"
 									src="assets/img/portfolio/submarine.png" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Donating transport services or vehicles to those affected by natural disasters can be a crucial form of aid, as transportation is often disrupted in disaster-stricken areas. Roads may be damaged, vehicles may be lost, and public transportation systems may become non-functional, leaving affected individuals without reliable means to access shelters, medical facilities, or essential supplies.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -622,6 +592,3 @@
 	<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 </body>
 </html>
-
-
-sujal pattewar
