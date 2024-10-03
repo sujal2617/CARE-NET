@@ -592,11 +592,3 @@
 	<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 </body>
 </html>
-
-
-
-
-
-
-
-sujal pattewar
