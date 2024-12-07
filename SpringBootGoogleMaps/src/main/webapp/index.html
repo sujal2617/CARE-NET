@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load("current", {
+        "packages":["map"],
+        // Note: you will need to get a mapsApiKey for your project.
+        // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+        "mapsApiKey": "AIzaSyA3KhjPirQ01dCqR-hxMGeBCzMFL8-UXqI"
+      });
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Lat', 'Long', 'Name'],
+ //         [16.5062, 80.6480,'Vijayawada'],
+  //        [16.3067, 80.4365, 'Guntur'],
+          [16.4419, 80.6226, 'KLU'],
+//		  [19.2608, 76.7748, 'Parbhani'],
+		  [16.44083, 80.62260, 'KLU Civil Block'],
+		  [16.44301, 80.62457, 'KLU Cricket Ground'],
+		  [16.44141388427683, 80.62767596817012 , 'Tulip Hostel'],	
+		  [16.440667848398178, 80.6219145833472, 'Live location'],
+        ]);
+        var map = new google.visualization.Map(document.getElementById('map_div'));
+        map.draw(data, {
+          showTooltip: true,
+          showInfoWindow: true
+        });      }
+    </script>
+  </head>
+  <body>
+    <div id="map_div" style="width: 1250px; height: 650px"></div>
+  </body>
+</html>
